@@ -1,0 +1,61 @@
+//Items
+item.SpiritFruit.name=Spirit Fruit
+item.RuneStone.name=Rune Stone
+item.Ectoplasm.name=Ethereal Matter
+item.BloodRock.name=Blood Rock
+item.Infernium.name=Infernium
+item.Starcillium.name=Starcillium
+
+//Blocks
+tile.InferniumOre.name=Infernium Ore
+tile.BloodRockOre.name=Blood Rock Ore
+tile.StarcilliumOre.name=Starcillium Ore
+tile.BasaltBricks.name=Basalt Bricks
+tile.Basalt.name=Basalt
+tile.Lava Cap.name=Lava Cap
+
+//STORAGE Blocks
+tile.StarcilliumBlock.name=Block Of Starcillium
+
+//Tools for Ores
+//Infernium
+item.InferniumPickaxe.name=Infernium Pickaxe
+item.InferniumSword.name=Infernium Sword
+item.InferniumAxe.name=Infernium Axe
+item.InferniumShovel.name=Infernium Shovel
+item.InferniumHoe.name=Infernium Hoe
+
+item.InfernalHelmet.name=Infernium Helmet
+item.InfernalChestplate.name=Infernium Chestplate
+item.InfernalLeggings.name=Infernium Leggings
+item.InfernalBoots.name=Infernium Boots
+
+//Blood Rock
+item.BloodPickaxe.name=Blood Rock Pickaxe
+item.BloodSword.name=Blood Rock Sword
+item.BloodAxe.name=Blood Rock Axe
+item.BloodShovel.name=Blood Rock Shovel
+item.BloodHoe.name=Blood Rock Hoe
+
+item.BloodHelmet.name=Blood Rock Helmet
+item.BloodChestplate.name=Blood Rock Chestplate
+item.BloodLeggings.name=Blood Rock Leggings
+item.BloodBoots.name=Blood Rock Boots
+
+//Tools MISC
+item.InfernalBow.name=Infernal Bow
+
+
+//entities
+entity.FireElemental.name=Fire Elemental
+
+
+
+
+
+
+
+
+
+
+
