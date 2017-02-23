@@ -22,8 +22,7 @@ public class ItemISword extends ItemSword {
 
 	public void onUpdate(ItemStack itemstack, World par2World, Entity par3Entity, int par4, boolean par5) {
 		if (itemstack.isItemEnchanted() == false) {
-			itemstack.addEnchantment(Enchantment.fireAspect, 1);
-		}
+			itemstack.addEnchantment(Enchantment.fireAspect, 1);//add config option for this to be disabled or enabled in mod's code.		}
 	}
 	public boolean hasEffect(ItemStack par1ItemStack)
 	{
